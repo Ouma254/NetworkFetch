@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetworkFetch</string>
+    <string name="load_text">Loading..</string>
+</resources>
