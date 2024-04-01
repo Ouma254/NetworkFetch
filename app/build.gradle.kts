@@ -73,9 +73,9 @@ dependencies {
     implementation(libs.kotlinx.coroutines.core)
     implementation(libs.kotlinx.coroutines.android)
 
-    implementation("androidx.compose.runtime:runtime-android:1.6.4")
-    implementation("androidx.compose.ui:ui-android:1.6.4")
-    implementation("androidx.compose.runtime:runtime-livedata:1.6.4")
+    implementation(libs.androidx.runtime.android)
+    implementation(libs.androidx.ui.android)
+    implementation(libs.androidx.runtime.livedata)
 
 
 
